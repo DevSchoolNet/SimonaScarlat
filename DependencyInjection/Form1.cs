@@ -34,7 +34,7 @@ namespace DependencyInjection
         }
         private void sendMessage_button_Click(object sender, EventArgs e)
         {
-            DistributorVedda distributor = new DistributorVedda();
+            Distributor distributor = new Distributor();
             foreach(string selectedClient in sendTo_listBox.SelectedItems)
             {
                 distributor.Client = FactoryClient.makeClientInstance(selectedClient);

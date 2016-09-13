@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DependencyInjection
 {
-    public class DistributorVedda
+    public class Distributor
     {
         public IClient Client { get; set; }
 
