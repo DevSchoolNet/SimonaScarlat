@@ -1,0 +1,6 @@
+C:\Users\Simi\Desktop\Tema3Daniel\Tema3Daniel\bin\Debug\Tema3Daniel.exe.config
+C:\Users\Simi\Desktop\Tema3Daniel\Tema3Daniel\bin\Debug\Tema3Daniel.exe
+C:\Users\Simi\Desktop\Tema3Daniel\Tema3Daniel\bin\Debug\Tema3Daniel.pdb
+C:\Users\Simi\Desktop\Tema3Daniel\Tema3Daniel\obj\Debug\Tema3Daniel.csprojResolveAssemblyReference.cache
+C:\Users\Simi\Desktop\Tema3Daniel\Tema3Daniel\obj\Debug\Tema3Daniel.exe
+C:\Users\Simi\Desktop\Tema3Daniel\Tema3Daniel\obj\Debug\Tema3Daniel.pdb

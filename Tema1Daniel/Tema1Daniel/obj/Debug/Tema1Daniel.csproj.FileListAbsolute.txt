@@ -1,0 +1,10 @@
+C:\Users\Simi\Desktop\Tema1Daniel\Tema1Daniel\bin\Debug\Tema1Daniel.exe.config
+C:\Users\Simi\Desktop\Tema1Daniel\Tema1Daniel\bin\Debug\Tema1Daniel.exe
+C:\Users\Simi\Desktop\Tema1Daniel\Tema1Daniel\bin\Debug\Tema1Daniel.pdb
+C:\Users\Simi\Desktop\Tema1Daniel\Tema1Daniel\obj\Debug\Tema1Daniel.csprojResolveAssemblyReference.cache
+C:\Users\Simi\Desktop\Tema1Daniel\Tema1Daniel\obj\Debug\Tema1Daniel.Form1.resources
+C:\Users\Simi\Desktop\Tema1Daniel\Tema1Daniel\obj\Debug\Tema1Daniel.Properties.Resources.resources
+C:\Users\Simi\Desktop\Tema1Daniel\Tema1Daniel\obj\Debug\Tema1Daniel.csproj.GenerateResource.Cache
+C:\Users\Simi\Desktop\Tema1Daniel\Tema1Daniel\obj\Debug\Tema1Daniel.exe
+C:\Users\Simi\Desktop\Tema1Daniel\Tema1Daniel\obj\Debug\Tema1Daniel.pdb
+C:\Users\Simi\Desktop\Tema1Daniel\Tema1Daniel\obj\Debug\Tema1Daniel.Form2.resources

@@ -1,0 +1,9 @@
+c:\users\mihai\documents\visual studio 2015\Projects\Tema4Daniel\Tema4Daniel\bin\Debug\Tema4Daniel.exe.config
+C:\Users\Mihai\documents\visual studio 2015\Projects\Tema4Daniel\Tema4Daniel\bin\Debug\Tema4Daniel.exe
+C:\Users\Mihai\documents\visual studio 2015\Projects\Tema4Daniel\Tema4Daniel\bin\Debug\Tema4Daniel.pdb
+C:\Users\Mihai\documents\visual studio 2015\Projects\Tema4Daniel\Tema4Daniel\obj\Debug\Tema4Daniel.csprojResolveAssemblyReference.cache
+C:\Users\Mihai\documents\visual studio 2015\Projects\Tema4Daniel\Tema4Daniel\obj\Debug\Tema4Daniel.Form1.resources
+C:\Users\Mihai\documents\visual studio 2015\Projects\Tema4Daniel\Tema4Daniel\obj\Debug\Tema4Daniel.Properties.Resources.resources
+C:\Users\Mihai\documents\visual studio 2015\Projects\Tema4Daniel\Tema4Daniel\obj\Debug\Tema4Daniel.csproj.GenerateResource.Cache
+C:\Users\Mihai\documents\visual studio 2015\Projects\Tema4Daniel\Tema4Daniel\obj\Debug\Tema4Daniel.exe
+C:\Users\Mihai\documents\visual studio 2015\Projects\Tema4Daniel\Tema4Daniel\obj\Debug\Tema4Daniel.pdb
