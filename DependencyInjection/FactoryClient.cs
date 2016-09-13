@@ -10,6 +10,7 @@ namespace DependencyInjection
     {
         public static IClient makeClientInstance(string selectedClient)
         {
+
             switch(selectedClient)
             {
                 case "Kaufland":
