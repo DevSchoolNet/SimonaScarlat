@@ -20,5 +20,6 @@ namespace DependencyInjection
                     return new ClientMegaImage();
             }
         }
+
     }
 }
