@@ -12,7 +12,6 @@ namespace DependencyInjection
         {
             switch(selectedClient)
             {
-
                 case "Kaufland":
                     return new ClientKaufland();
                 case "Lidl":
