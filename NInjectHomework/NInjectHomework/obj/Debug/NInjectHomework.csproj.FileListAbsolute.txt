@@ -1,0 +1,8 @@
+C:\Users\Mihai\Desktop\NInjectHomework\NInjectHomework\bin\Debug\NInjectHomework.exe.config
+C:\Users\Mihai\Desktop\NInjectHomework\NInjectHomework\bin\Debug\NInjectHomework.exe
+C:\Users\Mihai\Desktop\NInjectHomework\NInjectHomework\bin\Debug\NInjectHomework.pdb
+C:\Users\Mihai\Desktop\NInjectHomework\NInjectHomework\bin\Debug\Ninject.dll
+C:\Users\Mihai\Desktop\NInjectHomework\NInjectHomework\bin\Debug\Ninject.xml
+C:\Users\Mihai\Desktop\NInjectHomework\NInjectHomework\obj\Debug\NInjectHomework.csprojResolveAssemblyReference.cache
+C:\Users\Mihai\Desktop\NInjectHomework\NInjectHomework\obj\Debug\NInjectHomework.exe
+C:\Users\Mihai\Desktop\NInjectHomework\NInjectHomework\obj\Debug\NInjectHomework.pdb
