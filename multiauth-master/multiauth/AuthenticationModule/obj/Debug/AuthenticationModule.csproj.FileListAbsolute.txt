@@ -1,0 +1,7 @@
+C:\Users\Mihai\Desktop\multiauth-master\multiauth\AuthenticationModule\bin\Debug\AuthenticationModule.dll
+C:\Users\Mihai\Desktop\multiauth-master\multiauth\AuthenticationModule\bin\Debug\AuthenticationModule.pdb
+C:\Users\Mihai\Desktop\multiauth-master\multiauth\AuthenticationModule\bin\Debug\log4net.dll
+C:\Users\Mihai\Desktop\multiauth-master\multiauth\AuthenticationModule\bin\Debug\log4net.xml
+C:\Users\Mihai\Desktop\multiauth-master\multiauth\AuthenticationModule\obj\Debug\AuthenticationModule.csprojResolveAssemblyReference.cache
+C:\Users\Mihai\Desktop\multiauth-master\multiauth\AuthenticationModule\obj\Debug\AuthenticationModule.dll
+C:\Users\Mihai\Desktop\multiauth-master\multiauth\AuthenticationModule\obj\Debug\AuthenticationModule.pdb

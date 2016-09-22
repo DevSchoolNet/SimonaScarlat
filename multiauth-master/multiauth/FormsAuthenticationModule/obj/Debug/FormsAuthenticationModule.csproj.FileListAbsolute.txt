@@ -1,0 +1,13 @@
+C:\Users\Mihai\Desktop\multiauth-master\multiauth\FormsAuthenticationModule\bin\Debug\FormsAuthenticationModule.dll
+C:\Users\Mihai\Desktop\multiauth-master\multiauth\FormsAuthenticationModule\bin\Debug\FormsAuthenticationModule.pdb
+C:\Users\Mihai\Desktop\multiauth-master\multiauth\FormsAuthenticationModule\bin\Debug\AuthenticationModule.dll
+C:\Users\Mihai\Desktop\multiauth-master\multiauth\FormsAuthenticationModule\bin\Debug\Dapper.dll
+C:\Users\Mihai\Desktop\multiauth-master\multiauth\FormsAuthenticationModule\bin\Debug\log4net.dll
+C:\Users\Mihai\Desktop\multiauth-master\multiauth\FormsAuthenticationModule\bin\Debug\AuthenticationModule.pdb
+C:\Users\Mihai\Desktop\multiauth-master\multiauth\FormsAuthenticationModule\bin\Debug\Dapper.xml
+C:\Users\Mihai\Desktop\multiauth-master\multiauth\FormsAuthenticationModule\bin\Debug\log4net.xml
+C:\Users\Mihai\Desktop\multiauth-master\multiauth\FormsAuthenticationModule\obj\Debug\FormsAuthenticationModule.csprojResolveAssemblyReference.cache
+C:\Users\Mihai\Desktop\multiauth-master\multiauth\FormsAuthenticationModule\obj\Debug\FormsAuthenticationModule.dll
+C:\Users\Mihai\Desktop\multiauth-master\multiauth\FormsAuthenticationModule\obj\Debug\FormsAuthenticationModule.pdb
+C:\Users\Mihai\Desktop\multiauth-master\multiauth\FormsAuthenticationModule\bin\Debug\GoogleAuthenticationModule.dll
+C:\Users\Mihai\Desktop\multiauth-master\multiauth\FormsAuthenticationModule\bin\Debug\GoogleAuthenticationModule.pdb

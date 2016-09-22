@@ -1,0 +1,10 @@
+C:\Users\Mihai\Desktop\multiauth-master\multiauth\GoogleAuthenticationModule\bin\Debug\GoogleAuthenticationModule.dll.config
+C:\Users\Mihai\Desktop\multiauth-master\multiauth\GoogleAuthenticationModule\bin\Debug\GoogleAuthenticationModule.dll
+C:\Users\Mihai\Desktop\multiauth-master\multiauth\GoogleAuthenticationModule\bin\Debug\GoogleAuthenticationModule.pdb
+C:\Users\Mihai\Desktop\multiauth-master\multiauth\GoogleAuthenticationModule\bin\Debug\AuthenticationModule.dll
+C:\Users\Mihai\Desktop\multiauth-master\multiauth\GoogleAuthenticationModule\bin\Debug\log4net.dll
+C:\Users\Mihai\Desktop\multiauth-master\multiauth\GoogleAuthenticationModule\bin\Debug\AuthenticationModule.pdb
+C:\Users\Mihai\Desktop\multiauth-master\multiauth\GoogleAuthenticationModule\bin\Debug\log4net.xml
+C:\Users\Mihai\Desktop\multiauth-master\multiauth\GoogleAuthenticationModule\obj\Debug\GoogleAuthenticationModule.csprojResolveAssemblyReference.cache
+C:\Users\Mihai\Desktop\multiauth-master\multiauth\GoogleAuthenticationModule\obj\Debug\GoogleAuthenticationModule.dll
+C:\Users\Mihai\Desktop\multiauth-master\multiauth\GoogleAuthenticationModule\obj\Debug\GoogleAuthenticationModule.pdb
